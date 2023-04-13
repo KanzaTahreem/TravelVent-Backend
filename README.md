@@ -117,14 +117,14 @@ _**Reservations:**_
 ## 🚀 Front End Link <a name="live-demo"></a>
 > _Our frontend code is built using React and Redux and is hosted on a separate repository. The frontend handles the user interface and integrates with our backend API to retrieve and display data. Click the link below to get front end code_
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://remarkable-buttercream-3be0d2.netlify.app/">
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KanzaTahreem/TravelVent-Frontend">
     <img alt="live link" width="170px"  height="35px" src="https://img.shields.io/badge/frontend-0075A8?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔍 API Endpoints <a name="api-endpoints"></a>
-> _For developers who want to work with our app's data, we offer a set of API endpoints that you can use and integrate into your own project. Visit the link below as an example. To get all endpoints, see the documentation below_
+> _For developers who want to work with our app's data, we offer a set of API endpoints that you can use and integrate into your own project. Visit the link below as an example. To get all endpoints, see the documentation below._
 
  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://capstone-backend-gz9j.onrender.com/api/v1/trips">
     <img alt="endpoints" width="170px"  height="35px" src="https://img.shields.io/badge/resources-F37626?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
@@ -133,7 +133,7 @@ _**Reservations:**_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🧾 Documentation <a name="documentation"></a>
-> _Here you can find a detailed documentation for the API used in the project, including endpoints, request/response formats, and authentication methods. Developers can use this documentation to integrate our service into their applications and build custom integrations_
+> _Here you can find a detailed documentation for the API used in the project, including endpoints, request/response formats, and authentication methods. Developers can use this documentation to integrate our service into their applications and build custom integrations._
 
  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://capstone-backend-gz9j.onrender.com/api-docs/index.html">
     <img alt="documentation" width="165px"  height="35px" src="https://img.shields.io/badge/ user guide-8A4182?style=for-the-badge&logo=read-the-docs&logoColor=white" />
@@ -250,7 +250,7 @@ You can deploy this project using:
       <img alt="ruby" width="130px" height="35px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <br>
- &nbsp;&nbsp;&nbsp;&nbsp;<a href="ttps://www.linkedin.com/in/kanza-tahreem/">
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kanza-tahreem/">
       <img alt="ruby" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 
