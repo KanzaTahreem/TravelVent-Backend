@@ -89,6 +89,4 @@ test:
 #
 production:
   <<: *default
-  database: <%= ENV['DB'] %>
-  username: shaker
-  password: SHaker@100
+  url: <%= ENV['DATABASE_URL'] %>
